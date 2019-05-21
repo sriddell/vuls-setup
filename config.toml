@@ -1,0 +1,7 @@
+[default]
+port = "22"
+user = "user"
+keyPath     = "/root/.ssh/id_rsa" # path to ssh private key in docker
+scanMode = ["fast"]
+
+[servers]
