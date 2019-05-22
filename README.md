@@ -31,7 +31,7 @@ host = "my-server-1.mydomain.com"
 
 ## Updating
 
-Run the update.sh script to update the local CVE databases
+Run the update.sh script to update the local CVE databases before doing a scan
 
 ## Scanning and Report
 Run the scan.sh to scan the servers specified in config.toml, then run report.sh to report on the results of the scan.
